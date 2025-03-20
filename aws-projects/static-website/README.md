@@ -15,3 +15,7 @@ Setup Guide
 5. Use AWS Certificate Manager (ACM) for SSL.
 
 
+
+* Detailed steps in setup-guide
+
+
